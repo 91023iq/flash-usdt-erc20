@@ -10,4 +10,4 @@ change recipient_address to ur wallet address
 change amount_to_send = 20 to how much u want to send
 ```
 
-fake usdt, usdt flash, flash usdt, send fake usdt, usdt fake sender, send fake usdt, flash eth, send fake eth, fake eth sender, eth fake send, fake eth send
+fake usdt, usdt flash, flash usdt, send fake usdt, usdt fake sender, send fake usdt, flash eth, send fake eth, fake eth sender, eth fake send, fake eth send, discord nuker, discord server nuker, fortnite cheat, cheat, krunker cheat, 1v1 lol cheat, 1v1 cheat, discord raider, discord server raider
